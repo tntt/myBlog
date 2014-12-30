@@ -7,3 +7,5 @@ ul = unordered lists <br />
 ol = ordered lists <br />
 li = Lists <br />
 br = break <br />
+DOM = Document Object Model <br />
+div = division <br />
